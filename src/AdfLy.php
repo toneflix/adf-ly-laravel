@@ -1,6 +1,6 @@
 <?php
 
-namespace Toneflix\AdfLy;
+namespace ToneflixCode\AdfLy;
 use Illuminate\Support\Facades\Http;
 
 class AdfLy

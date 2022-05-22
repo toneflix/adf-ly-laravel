@@ -1,6 +1,6 @@
 <?php
 
-	namespace Toneflix\AdfLy;
+	namespace ToneflixCode\AdfLy;
 	
 	/**
 	 * http://code.google.com/p/gam-http/

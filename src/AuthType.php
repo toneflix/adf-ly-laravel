@@ -1,6 +1,6 @@
 <?php
 
-	namespace Toneflix\AdfLy;
+	namespace ToneflixCode\AdfLy;
 
     /**
      * Describes two kinds of authentication. Acts as enum.
