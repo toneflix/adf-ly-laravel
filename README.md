@@ -1,4 +1,4 @@
-# Very short description of the package
+# Adf.ly Laravel API wrapper
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/toneflix-code/adf-ly-laravel.svg?style=flat-square)](https://packagist.org/packages/toneflix-code/adf-ly-laravel)
 [![Total Downloads](https://img.shields.io/packagist/dt/toneflix-code/adf-ly-laravel.svg?style=flat-square)](https://packagist.org/packages/toneflix-code/adf-ly-laravel)
