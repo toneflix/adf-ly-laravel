@@ -1,5 +1,5 @@
 {
-    "name": "toneflix/adf-ly-laravel",
+    "name": "toneflix-code/adf-ly-laravel",
     "description": "A laravel package that wraps around Adf.ly API library.",
     "keywords": [
         "toneflix",
