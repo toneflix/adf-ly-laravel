@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Toneflix\\AdfLy\\": "src"
+            "ToneflixCode\\AdfLy\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Toneflix\\AdfLy\\Tests\\": "tests"
+            "ToneflixCode\\AdfLy\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -46,10 +46,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Toneflix\\AdfLy\\AdfLyServiceProvider"
+                "ToneflixCode\\AdfLy\\AdfLyServiceProvider"
             ],
             "aliases": {
-                "AdfLy": "Toneflix\\AdfLy\\AdfLyFacade"
+                "AdfLy": "ToneflixCode\\AdfLy\\AdfLyFacade"
             }
         }
     }
